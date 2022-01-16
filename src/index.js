@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+const MiniCssExtractPlugin=require("mini-css-extract-plugin").default;
 
 ReactDOM.render(
   <React.StrictMode>

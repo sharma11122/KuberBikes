@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+const MiniCssExtractPlugin=require("mini-css-extract-plugin").default;
+
 
 function App() {
   return (
